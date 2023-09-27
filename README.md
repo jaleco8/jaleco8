@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jesús León</h1>
-<h2 align="center">👨🏻‍🎓Ing. Computación |🧑🏻‍💻 Desarrollador Senior | Full Stack | PHP JavaScript | 🇻🇪🌎</h2>
+<h2 align="center">👨🏻‍🎓Ing. Computación |🧑🏻‍💻 Desarrollador Senior | Full Stack | PHP JavaScript</h2>
 
 ![](./images/JALECO-Banner.png)
 

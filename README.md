@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Jesús León</h1>
-<h2 align="center">🧑🏻‍💻 Tech Lead | 🗂️ Scrum Master | Project Manager | Líder técnico | Senior Software | Lidero equipos técnicos para crear soluciones innovadoras, alineando tecnología con estrategia empresarial</h2>
+<h2 align="center">Lidero equipos técnicos para crear soluciones innovadoras, alineando tecnología con estrategia empresarial</h2>
+<h3 align="center">🧑🏻‍💻 Tech Lead | 🗂️ Scrum Master | Project Manager | Líder técnico | Senior Software</h3>
 
 ![](./images/JALECO-LinkedIn-Banner-3.png)
 

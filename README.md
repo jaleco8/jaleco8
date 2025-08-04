@@ -2,7 +2,7 @@
 <h2 align="center">Impulso la creación de soluciones tecnológicas innovadoras y escalables que generan valor y optimizan procesos de negocio</h2>
 <h3 align="center">🧑🏻‍💻 Tech Lead | 🗂️ Scrum Master | Project Manager | Líder técnico | Senior Software</h3>
 
-![](./images/JALECO-Banner-v6.png)
+![](./images/JALECO-LinkedIn-Banner-v6.png)
 
 [![Twitter](https://img.shields.io/badge/Twitter-jaleco8-0F1419?logo=x&labelColor=0F1419&color=1FA5FF)](https://twitter.com/jaleco8) [![Threads](https://img.shields.io/badge/threads-jaleco8-171819?logo=threads&labelColor=171819&color=A4ABB3)](https://www.threads.net/@jaleco8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaleco8-0a66c2?logo=linkedIn&labelColor=0a66c2&color=032342)](https://www.linkedin.com/in/jaleco8) [![Email](https://img.shields.io/badge/ing.jesusleon%40gmail.com-Email_Personal-0D0D0D?logo=gmail&labelColor=0D0D0D&color=F21D2F)](mailto:ing.jesusleon@gmail.com)
 

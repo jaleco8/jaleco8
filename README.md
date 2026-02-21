@@ -23,6 +23,3 @@ Actualmente, me centro en el liderazgo y la Inteligencia Artificial, áreas que 
 - 💬 Pregúntame **tecnología, liderazgo, inteligencia artificial, metodologías ágiles, scrum, php, vue, angular, html, css, javascript, node, laravel, ia**
 
 - 📄 Conocer mis experiencias [https://www.linkedin.com/in/jaleco8/details/experience/](https://www.linkedin.com/in/jaleco8/details/experience/)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaleco8&show_icons=true&locale=en&layout=compact" alt="jaleco8" /></p>
-
